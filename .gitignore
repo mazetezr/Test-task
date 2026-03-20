@@ -7,3 +7,7 @@ staticfiles/
 *.egg-info/
 .vscode/
 .idea/
+
+celerybeat-schedule
+
+

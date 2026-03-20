@@ -6,8 +6,7 @@ Backend-сервіс для обробки заявок на перевірку 
 
 1. Клонуйте репозиторій:
 ```bash
-git clone <repo-url>
-cd DjangoService
+git clone https://github.com/mazetezr/Test-task.git
 ```
 
 2. Скопіюйте `.env.example` в `.env` та налаштуйте змінні:
